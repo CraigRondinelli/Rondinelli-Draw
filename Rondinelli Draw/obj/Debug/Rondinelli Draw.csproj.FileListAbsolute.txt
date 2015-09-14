@@ -1,0 +1,9 @@
+C:\Users\Craig\Desktop\CIS 202 Programs\Rondinelli Draw\Rondinelli Draw\bin\Debug\Rondinelli Draw.exe.config
+C:\Users\Craig\Desktop\CIS 202 Programs\Rondinelli Draw\Rondinelli Draw\obj\Debug\Rondinelli Draw.csprojResolveAssemblyReference.cache
+C:\Users\Craig\Desktop\CIS 202 Programs\Rondinelli Draw\Rondinelli Draw\obj\Debug\Rondinelli_Draw.frmDraw.resources
+C:\Users\Craig\Desktop\CIS 202 Programs\Rondinelli Draw\Rondinelli Draw\obj\Debug\Rondinelli_Draw.Properties.Resources.resources
+C:\Users\Craig\Desktop\CIS 202 Programs\Rondinelli Draw\Rondinelli Draw\obj\Debug\Rondinelli Draw.csproj.GenerateResource.Cache
+C:\Users\Craig\Desktop\CIS 202 Programs\Rondinelli Draw\Rondinelli Draw\bin\Debug\Rondinelli Draw.exe
+C:\Users\Craig\Desktop\CIS 202 Programs\Rondinelli Draw\Rondinelli Draw\bin\Debug\Rondinelli Draw.pdb
+C:\Users\Craig\Desktop\CIS 202 Programs\Rondinelli Draw\Rondinelli Draw\obj\Debug\Rondinelli Draw.exe
+C:\Users\Craig\Desktop\CIS 202 Programs\Rondinelli Draw\Rondinelli Draw\obj\Debug\Rondinelli Draw.pdb
